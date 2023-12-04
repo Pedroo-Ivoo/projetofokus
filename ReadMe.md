@@ -9,3 +9,5 @@ Assim utilizamos métodos do .querrySelector tanto para manipular a partir de ta
 Utilizamos funções para realizar de forma correta a concatenação da lógica dos elementos pedidos. Utilizando o loop for.Each, o switch e o setAttribute. 
 
 Também utilizamos o método setInterval e o clearInterval,o primeiro para estabelecer a contagem regressiva e o segundo para zerar o contador.
+
+Link para vizualizar o projeto https://projetofokus.vercel.app/
